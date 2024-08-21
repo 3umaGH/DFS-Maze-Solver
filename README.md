@@ -1,6 +1,6 @@
 # DFS-Maze-Solver
 
-I've been experimenting with algorithms and built a DFS maze solver.
+In an effort to learn more about algorithms, I built a DFS maze solver as a small project to get hands-on experience with depth-first search.
 
 #### Default cells: 
 Hallway - 0,
